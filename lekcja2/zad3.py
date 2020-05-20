@@ -1,0 +1,5 @@
+# takie sa operatory
+#  > < <> >= <= != ==  
+#
+#
+#
